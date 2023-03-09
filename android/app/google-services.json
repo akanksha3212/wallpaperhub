@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166439878180",
+    "project_id": "wallpaper-4c7bb",
+    "storage_bucket": "wallpaper-4c7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166439878180:android:2cbc74074da8d6e6c9a2b1",
+        "android_client_info": {
+          "package_name": "com.thereal.wallpaperbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166439878180-0t0n0i378r77oefjug6i57h0vapj945m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dpTAOVNOzpD42IV7r9Ly8LjNBF127Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166439878180-0t0n0i378r77oefjug6i57h0vapj945m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
